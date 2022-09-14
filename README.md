@@ -5,3 +5,6 @@ COMPLETED 19 PROGRAMS
 
 13/9/22 add 2no using pointer, max num b/w 2no using pointer, print element in pointer, length of the string using pointer, largest number using dynamic memory allocation,swapping
 Elements using pointers, factorial of given numbers using pointers.
+14/9/2022 
+*student input
+*book id display
